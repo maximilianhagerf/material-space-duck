@@ -1,0 +1,21 @@
+{
+  "name": "material-space-duck",
+  "displayName": "Material Space Duck",
+  "description": "The VS Code theme you need, ducks in space!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Space Duck",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Material Space Duck-color-theme.json"
+      }
+    ]
+  }
+}
