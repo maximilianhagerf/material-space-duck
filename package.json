@@ -8,6 +8,16 @@
     "type": "git",
     "url": "https://github.com/maximilianhagerf/material-space-duck"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "material",
+    "space",
+    "duck",
+    "spaceduck",
+    "captaingreen",
+    "captain green"
+  ],
   "engines": {
     "vscode": "^1.72.0"
   },
