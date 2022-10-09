@@ -3,6 +3,11 @@
   "displayName": "Material Space Duck",
   "description": "The VS Code theme you need, ducks in space!",
   "version": "0.0.1",
+  "publisher": "CaptainGreen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maximilianhagerf/material-space-duck"
+  },
   "engines": {
     "vscode": "^1.72.0"
   },
