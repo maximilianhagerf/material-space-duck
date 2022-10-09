@@ -16,7 +16,7 @@
         "string.quoted.docstring"
       ],
       "settings": {
-        "fontStyle": "italic",
+        // "fontStyle": "italic",
         "foreground": "#30365F"
       }
     },
@@ -24,7 +24,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#30365F"
+        "foreground": "#ecf0c1"
       }
     },
     {
@@ -627,7 +627,8 @@
     "editorGutter.addedBackground": "#5ccc9660",
     "editorGutter.deletedBackground": "#e3340060",
     "editor.background": "#0f111b",
-    "editor.foreground": "#30365F",
+    "editor.foreground": "#ecf0c1",
+    // "editor.foreground": "#30365F",
     "editor.lineHighlightBackground": "#00000050",
     "editor.selectionBackground": "#30365F50",
     "editor.selectionHighlightBackground": "#FFCC0020",
