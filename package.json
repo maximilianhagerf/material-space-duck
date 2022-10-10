@@ -4,6 +4,11 @@
   "description": "The VS Code theme you need, ducks in space!",
   "version": "0.0.4",
   "publisher": "CaptainGreen",
+  "icon": "assets/duck1.png",
+  "author": {
+    "name": "Maximilian Hagerf",
+    "url": "http://hagerf.se"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/maximilianhagerf/material-space-duck"
