@@ -589,7 +589,7 @@
   ],
   "colors": {
     "focusBorder": "#30365F00",
-    "editorCursor.foreground": "#8cdefd",
+    "editorCursor.foreground": "#ecf0c1",
     // "editorCursor.foreground": "#FFCC00",
     "editorRuler.foreground": "#30365F",
     "scrollbar.shadow": "#0f111b00",
@@ -605,7 +605,7 @@
     "inputOption.activeBackground": "#30365F30",
     "inputOption.activeBorder": "#30365F30",
     "editorLineNumber.foreground": "#30365F80",
-    "editorLineNumber.activeForeground": "#8cdefd",
+    "editorLineNumber.activeForeground": "#ecf0c1",
     "editorBracketMatch.border": "#FFCC0050",
     "editorBracketMatch.background": "#0f111b",
     "editorWhitespace.foreground": "#30365F40",
@@ -773,6 +773,17 @@
     "listFilterWidget.background": "#00000030",
     "listFilterWidget.outline": "#00000030",
     "listFilterWidget.noMatchesOutline": "#00000030",
-    "tree.indentGuidesStroke": "#30365F"
+    "tree.indentGuidesStroke": "#30365F",
+    // test for white icon and text
+    "list.activeSelectionIconForeground": "#8cdefd",
+    "icon.foreground": "#30365f",
+    "list.inactiveSelectionIconForeground": "#8cdefd",
+    "banner.iconForeground": "#30365f",
+    // "banner.foreground": "#ff0000"
+    "extensionButton.prominentForeground": "#30365f",
+    "extensionButton.prominentBackground": "#8cdefd",
+    "extensionButton.prominentHoverBackground": "#ecf0c1"
+    // "extensionBadge.remoteBackground": "#ff0000"
+    // "quickInputList.focusIconForeground": "#ff0000"
   }
 }
