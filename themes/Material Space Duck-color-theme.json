@@ -66,7 +66,7 @@
       "name": "Keyword, Storage",
       "scope": ["Keyword", "Storage"],
       "settings": {
-        "fontStyle": "italic"
+        // "fontStyle": "italic"
       }
     },
     {
@@ -92,7 +92,7 @@
       "name": "Keyword Control",
       "scope": ["keyword.control"],
       "settings": {
-        "fontStyle": "italic"
+        // "fontStyle": "italic"
       }
     },
     {
@@ -232,7 +232,7 @@
       "name": "Language methods",
       "scope": ["variable.language"],
       "settings": {
-        "fontStyle": "italic",
+        // "fontStyle": "italic",
         "foreground": "#e33400"
       }
     },
@@ -240,7 +240,7 @@
       "name": "entity.name.method.js",
       "scope": ["entity.name.method.js"],
       "settings": {
-        "fontStyle": "italic",
+        // "fontStyle": "italic",
         "foreground": "#00a3cc"
       }
     },
@@ -258,7 +258,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "fontStyle": "italic",
+        // "fontStyle": "italic",
         "foreground": "#7a5ccc"
       }
     },
@@ -325,7 +325,7 @@
         "tag.decorator.js punctuation.definition.tag.js"
       ],
       "settings": {
-        "fontStyle": "italic",
+        // "fontStyle": "italic",
         "foreground": "#00a3cc"
       }
     },
@@ -335,7 +335,7 @@
         "source.js constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "fontStyle": "italic",
+        // "fontStyle": "italic",
         "foreground": "#e33400"
       }
     },
@@ -427,7 +427,8 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#30365F"
+        "foreground": "#ecf0c1"
+        // "foreground": "#30365F"
       }
     },
     {
@@ -468,7 +469,7 @@
       "name": "Markup - Italic",
       "scope": ["markup.italic"],
       "settings": {
-        "fontStyle": "italic",
+        // "fontStyle": "italic",
         "foreground": "#e33400"
       }
     },
@@ -522,7 +523,7 @@
       "name": "Markup - Quote",
       "scope": ["markup.quote"],
       "settings": {
-        "fontStyle": "italic",
+        // "fontStyle": "italic",
         "foreground": ""
       }
     },
