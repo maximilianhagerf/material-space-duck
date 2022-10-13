@@ -202,7 +202,9 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#30365F"
+        "foreground": "#e39400"
+        // "foreground": "#ecf0c1"
+        // "foreground": "#30365F"
       }
     },
     {
@@ -556,7 +558,8 @@
         "markup.inline.raw.string.markdown"
       ],
       "settings": {
-        "foreground": "#30365F90"
+        "foreground": "#ce6f8f"
+        // "foreground": "#30365F90"
       }
     },
     {
