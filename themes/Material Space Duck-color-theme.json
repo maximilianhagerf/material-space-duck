@@ -102,13 +102,6 @@
       }
     },
     {
-      "name": "Scss Prop",
-      "scope": ["entity.other.attribute-name.id.css"],
-      "settings": {
-        // "foreground": "#e39400"
-      }
-    },
-    {
       "name": "Function, Special Method",
       "scope": [
         "entity.name.function",
@@ -203,8 +196,6 @@
       "scope": ["support.type"],
       "settings": {
         "foreground": "#e39400"
-        // "foreground": "#ecf0c1"
-        // "foreground": "#30365F"
       }
     },
     {
@@ -559,7 +550,6 @@
       ],
       "settings": {
         "foreground": "#ce6f8f"
-        // "foreground": "#30365F90"
       }
     },
     {
@@ -632,10 +622,10 @@
     "editor.findMatchHighlightBackground": "#00000050",
     "editor.findMatchBorder": "#8cdefd",
     "editor.findMatchHighlightBorder": "#30365F30",
-    "tab.activeBorder": "#8cdefd",
     "tab.activeModifiedBorder": "#30365F",
     "tab.unfocusedActiveBorder": "#30365F",
     "tab.activeForeground": "#30365F",
+    "tab.activeBackground": "#00000050",
     "tab.inactiveForeground": "#30365F",
     "tab.inactiveBackground": "#0f111b",
     "tab.unfocusedActiveForeground": "#30365F",
@@ -717,8 +707,8 @@
     "panel.background": "#0f111b",
     "panel.dropBackground": "#30365F",
     "panelTitle.inactiveForeground": "#30365F",
-    "panelTitle.activeForeground": "#30365F",
-    "panelTitle.activeBorder": "#8cdefd",
+    "panelTitle.activeForeground": "#ecf0c1",
+    "panelTitle.activeBorder": "#0f111b",
     "diffEditor.insertedTextBackground": "#5ccc9615",
     "diffEditor.removedTextBackground": "#e3340020",
     "notifications.background": "#0f111b",
